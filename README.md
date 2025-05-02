@@ -19,9 +19,9 @@ https://www.youtube.com/watch?v=Wr2QiA7FqcE&ab_channel=YayapipiStudio
 - 編輯器控制: 可以 Undo、Redo、播放遊戲、Build版本
 
 ## 為 Unity 專案安裝 UnityMcpBridge
-把 `unity-mcp\UnityMcpBridge\*.*` 複製到 Unity 新專案的 `Assets` 目錄底下
-❗❗❗如果你的專案還沒安裝過 `Newtonsoft Json` 會報錯
-請在 `Packages/manifest.json` 新增 `"com.unity.nuget.newtonsoft-json": "3.2.1"`
+把 `unity-mcp\UnityMcpBridge\*.*` 複製到 Unity 新專案的 `Assets` 目錄底下  
+❗❗❗如果你的專案還沒安裝過 `Newtonsoft Json` 會報錯  
+請在 `Packages/manifest.json` 新增 `"com.unity.nuget.newtonsoft-json": "3.2.1"`  
 ![newtonsoft-json](./images/Unity-MCP02.png)
 成功後會出現一個 `Unity MCP` 選單
 ![Unity MCP](./images/Unity-MCP01.png)
