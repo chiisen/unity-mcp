@@ -25,6 +25,7 @@ https://www.youtube.com/watch?v=Wr2QiA7FqcE&ab_channel=YayapipiStudio
 成功後會出現一個 `Unity MCP` 選單
 ![Unity MCP](./images/Unity-MCP01.png)
 綠燈就是設定完成  
+⭐ 本專案已設定完畢，不會設定可以參考本專案 UnityMcpBridge 設定(⭐版權引用自 justinpbarnett)
 
 ## 啟動 Python 的 MCP Serve (UnityMcpServer)
 安裝 uv (Python 套件) https://docs.astral.sh/uv/getting-started/installation/?ref=unityflow.dev#__tabbed_1_2
@@ -51,6 +52,7 @@ uv run --python 3.10 .\server.py
 ```
 可以指定 Python 版本執行程式  
 ![指定 Python 版本執行程式](./images/unity-MCP06.png)
+⭐ 本專案已設定完畢，不會設定可以參考本專案 UnityMcpServer 設定(⭐版權引用自 justinpbarnett)
 
 ## 設定 Claude Desktop 的 MCP 設定
 點選 `File` => `Settings`  
